@@ -27,7 +27,7 @@ sleep 2
 lsmod | grep my_loader
 sleep 5
 echo "checking if the I2S driver is working"
-sleep0.125
+sleep0.5
 echo "[50% Ok]" 
 sleep 2
 dmesg | tail
