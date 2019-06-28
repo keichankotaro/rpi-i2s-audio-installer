@@ -1,4 +1,4 @@
-# rpi-i2s-audio-Installer
+# rpi-i2s-audio-Install (rpi-i2s-installer)
 
 ## step 1
 ----------
