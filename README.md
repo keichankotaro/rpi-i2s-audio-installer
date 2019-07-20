@@ -11,6 +11,6 @@
 ## step 2
 --------
 
-sudo bash installer-v0.0.4.sh
+sudo bash installer-v0_0_4.sh
 
 --------
