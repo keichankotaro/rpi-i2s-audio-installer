@@ -9,8 +9,15 @@
 -------------
 
 ## step 2
+-------------
+
+chmod +x *.sh
+
+-------------
+
+## step 3
 --------
 
-sudo bash installer-v0_0_4.sh
+./installer-V0_0_4.sh
 
 --------
